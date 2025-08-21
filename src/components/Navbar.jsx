@@ -8,6 +8,7 @@ const Navbar = () => {
             <div>
                 <a href="#home" className={"flex items-center gap-2"}>
                     <p>Velvet Pour</p>
+                    <img src="/images/logo.png" alt="logo"/>
                 </a>
                 <ul>
                     {navLinks.map((link) => (
