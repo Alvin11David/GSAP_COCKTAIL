@@ -6,7 +6,8 @@ const Hero = () => {
             <h1 className="title">MOJITO</h1>
             <img
             src="/images/hero-left-leaf.png"
-            alt="leaf-image"/>
+            alt="leaf-image"
+            className="left-leaf"/>
         </section>
     );
 };
