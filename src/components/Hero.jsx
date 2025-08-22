@@ -24,6 +24,7 @@ const Hero = () => {
                         <p className='subtitle'>
                             Every Cocktail on our Menu is a blend of premium indgredients, creative flair, and timeless recipes - designed to delight your senses.
                         </p>
+                        <a href='#cocktails'>View Cocktails</a>
                     </div>
                 </div>
             </div>
